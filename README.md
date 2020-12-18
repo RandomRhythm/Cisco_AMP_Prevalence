@@ -1,0 +1,1 @@
+Cisco_AMP_Prevalence.vbs uses Internet Explorer to visit each prevalence page in the Cisco AMP console and record hash data.
